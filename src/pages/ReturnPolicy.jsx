@@ -19,7 +19,7 @@ export default function ReturnPolicy() {
       <div className="bg-slate-50 p-8 rounded-none border border-slate-100 mt-6 not-prose">
         <p className="font-medium text-slate-700 mb-4 italic">Place the item securely in its original packaging and include your proof of purchase, then mail your return to the following address:</p>
         <address className="not-italic text-slate-900 font-black leading-relaxed uppercase tracking-tighter">
-                     PrinterBrother <br />
+                     DashPrinterShop <br />
                      414 SW Adams St<br />
                      Peoria, IL 61602<br />          United States
         </address>

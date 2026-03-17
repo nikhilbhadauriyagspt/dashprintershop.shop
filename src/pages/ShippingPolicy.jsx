@@ -10,7 +10,7 @@ export default function ShippingPolicy() {
       lastUpdated="March 17, 2026"
     >
       <p className="lead">
-        This Shipping & Delivery Policy is part of our Terms and Conditions ("Terms") and should be therefore read alongside our main Terms: <Link to="/terms-and-conditions">http://dashprintershop.shop/terms-and-conditions</Link>.
+        This Shipping & Delivery Policy is part of our Terms and Conditions ("Terms") and should be therefore read alongside our main Terms: <Link to="/terms-and-conditions">https://dashprintershop.shop/terms-and-conditions</Link>.
       </p>
       <p>
         Please carefully review our Shipping & Delivery Policy when purchasing our products. This policy will apply to any order you place with us.
@@ -37,7 +37,7 @@ export default function ShippingPolicy() {
 
       <h2>QUESTIONS ABOUT RETURNS?</h2>
       <p>
-        If you have questions about returns, please review our Return Policy: <Link to="/return-policy">http://dashprintershop.shop/return-policy</Link>.
+        If you have questions about returns, please review our Return Policy: <Link to="/return-policy">https://dashprintershop.shop/return-policy</Link>.
       </p>
 
       <hr />
