@@ -2,13 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, ChevronRight } from 'lucide-react';
 
-import banner3 from '@/assets/bannerr/4.jpg';
+import banner3 from '@/assets/bannerr/banner01.png';
 import banner4 from '@/assets/bannerr/2.jpg';
 
 const Hero = () => {
   return (
-    <section className="w-full bg-white mt-[20px] md:mt-[60px] px-4 md:px-10 pb-10">
-      <div className="max-w-[1920px] mx-auto">
+    <section className="w-full bg-white ">
+      <img src={banner3}
+       className='w-full h-[100vh] object-cover'
+      alt="" />
+      <div className="max-w-[1920px] hidden mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-4 h-auto md:h-[500px] lg:h-[600px]">
           
           {/* --- LEFT NARROW BANNER --- */}

@@ -108,7 +108,7 @@ export default function Header() {
     <>
       <header className="fixed top-0 left-0 w-full z-[100] font-sans">
         {/* --- SINGLE MODERN CRYSTAL LIGHT HEADER --- */}
-        <div className="bg-white/80 backdrop-blur-2xl border-b border-zinc-100 shadow-[0_4px_30px_rgba(0,0,0,0.03)]">
+        <div className="bg-white backdrop-blur-2xl border-b border-zinc-100 shadow-[0_4px_30px_rgba(0,0,0,0.03)]">
           <div className="max-w-[1920px] mx-auto h-20 md:h-24 px-4 md:px-10 flex items-center justify-between gap-6 md:gap-10">
             
             {/* 1. Logo Section */}

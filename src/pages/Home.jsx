@@ -84,7 +84,7 @@ export default function Home() {
   return (
     <div className="bg-white font-snpro overflow-x-hidden text-slate-900">
       <SEO 
-        title="DashPrinterShop | Premium Printers & Hardware" 
+        title="Printer & Scanner Solutions" 
         description="Premium destination for professional printers, and essential accessories. Delivering excellence in professional solutions across the USA."
       />
       
